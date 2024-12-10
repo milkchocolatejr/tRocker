@@ -66,4 +66,3 @@ This project is developed by a student team from the University of Illinois at C
 
 ## Acknowledgments
 We would like to thank our academic peers and mentors who provided valuable feedback and guidance throughout the development of this project. Special thanks to the University of Illinois at Chicago Biomedical Engineering deparement and professor Esmailbeigi for their resources and support.
->>>>>>> f822133 (Porting over from the project folder.)
